@@ -7,11 +7,11 @@ This a custom digital logic design of a frequency counter (measuring from 5 Hz t
 
 # Hardware & Software Specs
 
-Target FPGA Board : Digilent Nexys A7-50T
-Software Environment : Xilinx Design Suite
-Hardware Description Language : VHDL
-Global Clock : 50 MHz (MMCM Output)
-UART Params : 115200 baud
+* **Target FPGA Board:** Digilent Nexys A7-50T
+* **Software Environment:** Xilinx Vivado Design Suite
+* **Hardware Description Language:** VHDL
+* **Global Clock:** 50 MHz (MMCM Output)
+* **UART Params:** 115200 baud
 
 # Vivado Synthesis & Implementation Summary
 
